@@ -22,7 +22,7 @@ uploadArchives {
                 name "soyuz-validator-processor"
                 packaging "jar"
                 // optionally artifactId can be defined here
-                description ""
+                description "Simple framework to use soyuz-validator in functional style"
                 url "https://github.com/thedocs-io/soyuz-validator-processor"
 
                 scm {
